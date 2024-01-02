@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,docker,git,github,postgres,postman,redux,tailwind,ts,vite)](https://skillicons.dev)
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msolmaz4&theme=chartr
-euse-dark&layout=compact" alt="languages" width="50%">
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msolmaz4&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
 
 

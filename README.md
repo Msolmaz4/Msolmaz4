@@ -20,9 +20,7 @@ src="https://github-readme-stats.vercel.app/api?username=nathanColton&theme=char
 " alt="my github stats" width="49%"/>
 
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanColton&theme=chartr
-euse-dark&layout=compact" alt="languages" width="50%"/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 [![My
 Skills](https://skillicons.dev/icons?i=c,python,ts,js,html,css,react,redux,nodejs,express,pug,jquery,s
 ass,bootstrap,materialui,styledcomponents,tailwind,jest,django,sqlite,postgres,vscode,postman,git

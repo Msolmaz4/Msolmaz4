@@ -21,4 +21,4 @@ src="https://github-readme-stats.vercel.app/api?username=nathanColton&theme=char
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanColton&theme=chartr
-euse-dark&layout=compact" alt="languages" width="50%">
+euse-dark&layout=compact" alt="languages" width="50%"/>

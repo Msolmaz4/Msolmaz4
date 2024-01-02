@@ -15,13 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=Msolmaz4)
-<img
-src="https://github-readme-stats.vercel.app/api?username=nathanColton&theme=chartreuse-dark
-" alt="my github stats" width="49%"/>
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,docker,git,github,postgres,postman,redux,tailwind,ts,vite)](https://skillicons.dev)
-[![My
-Skills](https://skillicons.dev/icons?i=c,python,ts,js,html,css,react,redux,nodejs,express,pug,jquery,s
-ass,bootstrap,materialui,styledcomponents,tailwind,jest,django,sqlite,postgres,vscode,postman,git
-hub,wordpress&theme=light&perline=5)](https://skillicons.dev)
+

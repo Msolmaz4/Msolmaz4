@@ -1,3 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Project</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+
+
+
 ### Hi there 👋
 <a href="https://skillicons.dev" style="background-color: black; display: inline-block; padding: 10px;">
 <!--
@@ -26,4 +44,5 @@ Here are some ideas to get you started:
 </div>
 
 
-</a>
+</body>
+</html>
